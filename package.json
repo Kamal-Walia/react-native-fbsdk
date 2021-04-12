@@ -37,7 +37,7 @@
     "facebook",
     "core"
   ],
-  "license": "Facebook Platform License",
+  "license": "UNLICENSED",
   "scripts": {
     "start": "react-native start",
     "prepare": "bob build",
